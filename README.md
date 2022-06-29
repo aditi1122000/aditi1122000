@@ -1,6 +1,6 @@
 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="10%"> HELLO WORLD!! -->
 
-<span class="wave">👋 HELLO WORLD!!:white_check_mark:</span>
+<span class="wave">👋 HELLO WORLD!!</span>
 <!--  **aditi1122000/aditi1122000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
@@ -10,7 +10,9 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- ⚡ Fun fact: Those who cannot remeber the past are condemned to repeat it.
+-Dynamic Programming
 
+ -->
